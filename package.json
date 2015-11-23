@@ -1,0 +1,11 @@
+{
+    "name": "synthetics-draft",
+    "version": "0.0.1",
+    "dependencies": {
+        "selenium-webdriver": "*",
+        "chromedriver": "*"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    }
+}
